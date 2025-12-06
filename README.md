@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.YACHTS one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.yachts        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.yachts      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.yachts        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.yachts      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.yachts  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.yachts      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.yachts  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.YACHTS one word domai
 | abatic.yachts     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.yachts    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.yachts   | available | 50       | 1%     | 8      |           |         |         |
-| abc.yachts        | available | 102      | 41%    | 3      |           |         |         |
+| abc.yachts        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.yachts  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.yachts  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.yachts | available | 56       | 1%     | 10     |           |         |         |
