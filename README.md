@@ -1,22 +1,22 @@
-# Available .YACHTS One-Word Domains (5,622,109)
+# Available .YACHTS One-Word Domains (9,495)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C495%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C109%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C495%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .yachts one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .yachts one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,495-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,109 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,495 rows · **Live catalog:** 5,622,109 domains
+**Public extract:** 9,495 rows · **Live catalog:** 9,495 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/yachts`  
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | athletics.yachts  | available | $19.98    | —             | 69             | 52     | 9      | namecheap       |
 | sapphire.yachts   | resell    | —         | —             | 92             | 63     | 8      | Dynadot LLC     |
 | easy.yachts       | premium   | $812.50   | $20.99        | 128            | 62     | 4      | name.com        |
-| genius.yachts     | available | $1.99     | $20.99        | 98             | 47     | 6      | name.com        |
-| fantastic.yachts  | resell    | —         | —             | 88             | 63     | 9      | Spaceship, Inc. |
+| genius.yachts     | available | $1.99     | $20.99        | 98             | 45     | 6      | name.com        |
+| fantastic.yachts  | resell    | —         | —             | 88             | 62     | 9      | Spaceship, Inc. |
 | power.yachts      | premium   | $845      | $15.73        | 98             | 62     | 5      | namecheap       |
 | forge.yachts      | available | $1.99     | $20.99        | 62             | 45     | 5      | name.com        |
 | enterprise.yachts | resell    | —         | —             | 68             | 61     | 10     | Spaceship, Inc. |
 | free.yachts       | premium   | $812.50   | $20.99        | 88             | 59     | 4      | name.com        |
-| research.yachts   | available | $19.98    | —             | 92             | 41     | 8      | namecheap       |
+| content.yachts    | available | $1.99     | $20.99        | 138            | 40     | 7      | name.com        |
 | better.yachts     | resell    | —         | —             | 110            | 56     | 6      | Dynadot LLC     |
 | ace.yachts        | premium   | $812.50   | $20.99        | 88             | 57     | 3      | name.com        |
-| learning.yachts   | available | $19.98    | —             | 76             | 41     | 8      | namecheap       |
+| value.yachts      | available | $1.99     | —             | 89             | 40     | 5      | name.com        |
 | mike.yachts       | resell    | —         | —             | 94             | 51     | 4      | Go Daddy, LLC   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,495-row public sample | 5,622,109 live domains                           |
+| 9,495-row public sample | 9,495 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .YACHTS One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .YACHTS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
