@@ -1,10 +1,10 @@
-# Available .YACHTS One-Word Domains (12,061)
+# Available .YACHTS One-Word Domains (12,438)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C061%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C438%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .yachts one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,061 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,438 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,061 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,438 domains · **Median ask:** $89.26 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/tld/yachts`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                 |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------------- |
-| makers.yachts       | available | $1.99     | —             | 62             | 67     | 6      | name.com                                  |
+| spaces.yachts       | available | $1.99     | —             | 54             | 30     | 6      | name.com                                  |
 | teams.yachts        | resell    | —         | —             | 62             | 32     | 5      | Porkbun, LLC                              |
 | CocaCola.yachts     | premium   | $2,800    | $2,800        | 92             | 82     | 9      | namecheap                                 |
-| RedSox.yachts       | available | $19.98    | —             | 72             | 60     | 7      | namecheap                                 |
+| Jim.yachts          | available | $19.98    | —             | 78             | 28     | 3      | namecheap                                 |
 | prints.yachts       | resell    | —         | —             | 54             | 18     | 6      | GMO Internet Group, Inc. d/b/a Onamae.com |
 | hotels.yachts       | premium   | $812.50   | —             | 64             | 82     | 6      | name.com                                  |
-| spaces.yachts       | available | $1.99     | —             | 54             | 30     | 6      | name.com                                  |
+| commonground.yachts | available | $1.99     | —             | 74             | 28     | 13     | name.com                                  |
 | furnishings.yachts  | resell    | —         | —             | 80             | 5      | 11     | Spaceship, Inc.                           |
 | online.yachts       | premium   | $2,500    | —             | 70             | 62     | 7      | name.com                                  |
-| blocks.yachts       | available | $1.99     | —             | 53             | 29     | 6      | name.com                                  |
-| regions.yachts      | premium   | $2,500    | —             | 64             | 59     | 7      | name.com                                  |
-| Jim.yachts          | available | $19.98    | —             | 78             | 28     | 3      | namecheap                                 |
-| cars.yachts         | premium   | $812.50   | —             | 66             | 47     | 4      | name.com                                  |
-| commonground.yachts | available | $1.99     | —             | 74             | 28     | 13     | name.com                                  |
-| Ryan.yachts         | premium   | $2,800    | $2,800        | 60             | 44     | 4      | namecheap                                 |
 | bees.yachts         | available | $1.99     | —             | 54             | 27     | 4      | name.com                                  |
-| jobs.yachts         | premium   | $812.50   | —             | 79             | 42     | 4      | name.com                                  |
+| regions.yachts      | premium   | $2,500    | —             | 64             | 59     | 7      | name.com                                  |
 | drops.yachts        | available | $1.99     | —             | 52             | 25     | 5      | name.com                                  |
-| tickets.yachts      | premium   | $812.50   | —             | 64             | 34     | 7      | name.com                                  |
+| cars.yachts         | premium   | $812.50   | —             | 66             | 47     | 4      | name.com                                  |
 | schools.yachts      | available | $1.99     | —             | 72             | 24     | 7      | name.com                                  |
+| Ryan.yachts         | premium   | $2,800    | $2,800        | 60             | 44     | 4      | namecheap                                 |
+| deeplearning.yachts | available | $1.99     | —             | 74             | 23     | 13     | name.com                                  |
+| jobs.yachts         | premium   | $812.50   | —             | 79             | 42     | 4      | name.com                                  |
+| inhouse.yachts      | available | $1.99     | —             | 70             | 23     | 8      | name.com                                  |
+| tickets.yachts      | premium   | $812.50   | —             | 64             | 34     | 7      | name.com                                  |
+| makeit.yachts       | available | $1.99     | —             | 82             | 22     | 7      | name.com                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,061 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,438 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all one-word names on the .yachts extension. That makes the main question less about syntax and more about fit: does the word become stronger, clearer, or more memorable when paired with “yachts”? In this set, examples range from direct category signals like cat.yachts to more abstract or tonal options like retro.yachts and danger.yachts. When comparing these domains, weigh semantic fit first, then price. A median ask of 89.26 keeps many names accessible, but the extension is specialized, so broad words without a clear boating or luxury angle may carry weaker buyer or brand fit.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Favor words that read naturally with “yachts”
+- Check whether the word signals category or tone
+- Use price discipline around the 89.26 median ask
+- Be cautious with words that raise trademark concerns
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .YACHTS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .YACHTS One-Word Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
