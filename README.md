@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .yachts one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,441 domains · **Median ask:** $89.26 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/yachts`  
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | jobs.yachts         | premium   | $812.50   | —             | 79             | 42     | 4      | name.com                                  |
 | inhouse.yachts      | available | $1.99     | —             | 70             | 23     | 8      | name.com                                  |
 | tickets.yachts      | premium   | $812.50   | —             | 64             | 34     | 7      | name.com                                  |
-| makeit.yachts       | available | $1.99     | —             | 82             | 22     | 7      | name.com                                  |
+| herbs.yachts        | available | $1.99     | —             | 62             | 22     | 5      | name.com                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .YACHTS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .YACHTS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
