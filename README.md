@@ -1,10 +1,10 @@
-# Available .YACHTS One-Word Domains (27,955)
+# Available .YACHTS One-Word Domains (30,119)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C955%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C119%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .yachts one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,955 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,119 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,955 domains · **Median ask:** $100.37 · **High-demand under $2,500:** 80
+**Public extract:** 1,000 rows · **Live catalog:** 30,119 domains · **Median ask:** $97.45 · **High-demand under $2,500:** 101
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/yachts`
 **Best for:** founders, investors, studios
 
@@ -66,23 +66,23 @@ print(df.head())
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
 | alb.yachts      | available | $1.99     | $17.29        | high           | low    | 3      | namesilo             |
 | try.yachts      | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.      |
-| bio.yachts      | premium   | $812.50   | —             | high           | medium | 3      | name.com             |
+| boat.yachts     | premium   | $11,040   | $11,040       | high           | low    | 4      | namesilo             |
 | ang.yachts      | available | $1.99     | $20.99        | high           | low    | 3      | name.com             |
 | land.yachts     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC     |
-| boat.yachts     | premium   | $11,040   | $11,040       | high           | low    | 4      | namesilo             |
+| cake.yachts     | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo             |
 | ard.yachts      | available | $1.24     | $13.97        | medium         | low    | 3      | spaceship            |
 | panel.yachts    | resell    | —         | —             | high           | low    | 5      | Dynadot Inc          |
-| cake.yachts     | premium   | $2,660    | $2,660        | high           | low    | 4      | namesilo             |
+| chat.yachts     | premium   | $2,660    | $2,660        | high           | medium | 4      | namesilo             |
 | asc.yachts      | available | $1.80     | $21.98        | high           | low    | 3      | namecheap            |
 | share.yachts    | resell    | —         | —             | high           | medium | 5      | UM Domains Pte. Ltd. |
-| chat.yachts     | premium   | $2,660    | $2,660        | high           | medium | 4      | namesilo             |
+| gong.yachts     | premium   | $672.95   | $672.95       | high           | high   | 4      | spaceship            |
 | atv.yachts      | available | $1.80     | $21.98        | high           | low    | 3      | namecheap            |
 | exceed.yachts   | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC     |
-| gong.yachts     | premium   | $672.95   | $672.95       | high           | high   | 4      | spaceship            |
-| bsc.yachts      | available | $1.24     | $13.97        | high           | low    | 3      | spaceship            |
-| fraser.yachts   | resell    | —         | —             | high           | medium | 6      | —                    |
 | jack.yachts     | premium   | $2,660    | $2,660        | high           | medium | 4      | namesilo             |
-| cca.yachts      | available | $1.99     | $17.29        | high           | low    | 3      | namesilo             |
+| bok.yachts      | available | $1.54     | $14.21        | high           | low    | 3      | porkbun              |
+| fraser.yachts   | resell    | —         | —             | high           | medium | 6      | —                    |
+| pray.yachts     | premium   | $2,070.20 | $2,070.20     | high           | low    | 4      | spaceship            |
+| bom.yachts      | available | $1.99     | $17.29        | high           | medium | 3      | namesilo             |
 | latitude.yachts | resell    | —         | —             | high           | low    | 8      | —                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,955 live domains                        |
+| 1,000-row public sample | 30,119 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 80 high-demand names under $2,500          |
+| Basic exported fields   | 101 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .YACHTS One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .YACHTS One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
